@@ -1,3 +1,11 @@
+/*
+   Brendon Baughn
+   Version: 2.3
+   
+   For this to work, your input must be the entire name of the product,
+   capitalization does not matter
+*/
+
 import java.util.Scanner;
 public class VendingMachine {
 
